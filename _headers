@@ -1,0 +1,8 @@
+# Komprimierte Spieldateien: der Browser entpackt sie automatisch
+/games/ball-boom/Build/ball-boom.wasm.gz
+  Content-Encoding: gzip
+  Content-Type: application/wasm
+
+/games/space-attack/Build/space-attack.data.gz
+  Content-Encoding: gzip
+  Content-Type: application/octet-stream
